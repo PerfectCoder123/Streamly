@@ -6,17 +6,11 @@ Streamly is a modern video streaming application built with Kotlin and powered b
 
 ## Screenshots
 
-<img src = "screenshots/WhatsApp Image 2024-05-09 at 8.15.59 PM.jpeg"  width = 400/>
+<img src = "screenshots/WhatsApp Image 2024-05-09 at 8.15.59 PM.jpeg"  width = 400/>  <img src = "screenshots/WhatsApp Image 2024-05-09 at 8.16.02 PM.jpeg" width = 400>
 
-<img src = "screenshots/WhatsApp Image 2024-05-09 at 8.16.02 PM.jpeg" width = 400>
+<img src = "screenshots/WhatsApp Image 2024-05-09 at 8.16.01 PM(2).jpeg" width = 400>  <img src = "screenshots/WhatsApp Image 2024-05-09 at 8.16.01 PM(1).jpeg" width = 400>
 
-<img src = "screenshots/WhatsApp Image 2024-05-09 at 8.16.01 PM(2).jpeg" width = 400>
-
-<img src = "screenshots/WhatsApp Image 2024-05-09 at 8.16.01 PM(1).jpeg" width = 400>
-
-<img src = "screenshots/WhatsApp Image 2024-05-09 at 8.16.01 PM.jpeg" width = 400>
-
-<img src = "screenshots/WhatsApp Image 2024-05-09 at 8.16.00 PM(1).jpeg" width = 400>
+<img src = "screenshots/WhatsApp Image 2024-05-09 at 8.16.01 PM.jpeg" width = 400>  <img src = "screenshots/WhatsApp Image 2024-05-09 at 8.16.00 PM(1).jpeg" width = 400>
 
 <img src = "screenshots/WhatsApp Image 2024-05-09 at 8.16.00 PM.jpeg" width = 400>
 
@@ -59,7 +53,7 @@ We welcome contributions from the community! If you'd like to contribute to Stre
 
 Special thanks to the following resources for inspiration and assets:
 
-- [YouTube](https://www.youtube.com/) for creative common license videos.
+- [YouTube](https://www.youtube.com/) for providing creative common license videos.
 - [Flaticon](https://www.flaticon.com/) for providing icons.
 - [Behance](https://www.behance.net/) for design inspiration.
 - [Supabase](https://supabase.io/) for the robust backend infrastructure.
